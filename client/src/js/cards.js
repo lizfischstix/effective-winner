@@ -1,6 +1,6 @@
 import { putDb, getDb } from './database';
 
-const form = document.getElementById();
+const form = document.getElementById("id");
 
 
 form.addEventListener('submit', (event) => {
